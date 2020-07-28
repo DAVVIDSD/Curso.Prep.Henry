@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+    
+}
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp1874155.jpg&f=1&nofb=1);
+}
+.divclass{
+    text-align: center;
+    color: #fff;
+}
+.divclass a{
+    text-decoration: none;
+    color: #09F1E9;
+    font-size: 20px;
+    transition: all 0.5s;
+}
+.divclass a:hover{
+    color:red;
+}
+
+
+h1{
+    color: #fff;
+}
+.thirdDiv__img{
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 25px;
+    border-radius: 25px;
+}
+#thirdDiv ul li{
+    list-style: none;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border: solid #000 3px;
+    background: #B3EAD9;
+}
+.spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+

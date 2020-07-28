@@ -7,7 +7,8 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
-
+    display: block;
+    text-align: center;
 }
 
 
@@ -15,12 +16,24 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Acá va tu código */
 
+#ejercicioDos{
+    position: relative;
+    margin-left:-1.5px;
+    width: 0;
+    font-size: 0;
+}
 
 
 /* Ejercicio 3: */
 
-/* Acá va tu código */
 
+/* Acá va tu código */
+#ejercicioTres{
+    
+    margin-top: 100px;
+    margin-left: 200px;
+    z-index: -0;
+}
 
 
 /* Ejercicio 4: */
@@ -32,7 +45,14 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 /* Ejercicio 5: */
 
 /* Acá va tu código */
-
+#ejercicioCinco{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+}
 
 
 /* Ejercicio 6. */
+#elementoUno{
+    align-items:flex-start ;
+}

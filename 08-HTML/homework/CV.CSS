@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+p,li,h3{
+    font-size: px;
+}
+.container{
+   width: 60%;
+   margin: auto;
+   padding: 20px;
+   background:lightgray;
+   
+}
+.img{
+    width: 150px;
+    height: 150px;
+    float: right;
+    background: gray;
+    
+}
+.titulo{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+.descripcion h3{
+    text-align: center;
+    margin-bottom:  10px;
+}
+.educacion{
+    line-height: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.Experiencia{
+    margin-bottom: 10px;
+}
+.Experiencia h3{
+    margin-bottom: 10px;
+}
